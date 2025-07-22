@@ -28,6 +28,9 @@
           "name": "MIRPUR",
           "children": [
             { "name": "MIRPUR HIGH SCHOOL" },
+                { "name": "BHAIRA SCHOOL" },
+                { "name": "CHANDPUR HIGH SCHOOL" },
+                { "name": "CHAR ALGIABIRUDDIN HIGH SCHOOL" },
             { "name": "MIRPUR GOVT. COLLEGE" }
           ]
         }
