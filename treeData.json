@@ -14,7 +14,21 @@
                 { "name": "BHAIRA SCHOOL" },
                 { "name": "CHANDPUR HIGH SCHOOL" },
                 { "name": "CHAR ALGIABIRUDDIN HIGH SCHOOL" },
-                { "name": "CHATAL BAGHATA HIGH SCHOOL" }
+                { "name": "CHATAL BAGHATA HIGH SCHOOL" },
+                { "name": "KATIADI PILOT SCHOOL & COLLEGE" },
+                { "name": "RAJABARI HIGH SCHOOL" }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BAJITPUR",
+          "children": [
+            {
+              "name": "KULIAR CHAR",
+              "children": [
+                { "name": "BAJITPUR MODEL HIGH SCHOOL" },
+                { "name": "KULIAR CHAR GIRLS SCHOOL" }
               ]
             }
           ]
@@ -28,10 +42,22 @@
           "name": "MIRPUR",
           "children": [
             { "name": "MIRPUR HIGH SCHOOL" },
-                { "name": "BHAIRA SCHOOL" },
-                { "name": "CHANDPUR HIGH SCHOOL" },
-                { "name": "CHAR ALGIABIRUDDIN HIGH SCHOOL" },
-            { "name": "MIRPUR GOVT. COLLEGE" }
+            { "name": "MIRPUR GOVT. COLLEGE" },
+            { "name": "MIRPUR GIRLS IDEAL SCHOOL" }
+          ]
+        },
+        {
+          "name": "UTTARA",
+          "children": [
+            { "name": "UTTARA HIGH SCHOOL & COLLEGE" },
+            { "name": "RAJUK UTTARA MODEL SCHOOL" }
+          ]
+        },
+        {
+          "name": "DHANMONDI",
+          "children": [
+            { "name": "DHANMONDI GOVT. BOYS SCHOOL" },
+            { "name": "CITY COLLEGE" }
           ]
         }
       ]
