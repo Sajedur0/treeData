@@ -1,0 +1,45 @@
+{
+  "name": "DHAKA BOARD",
+  "children": [
+    {
+      "name": "KISHOREGANJ",
+      "children": [
+        {
+          "name": "KARIMGANJ",
+          "children": [
+            {
+              "name": "KATIADI",
+              "children": [
+                { "name": "BARADIROICHAR HIGH SCHOOL" },
+                { "name": "BHAIRA SCHOOL" },
+                { "name": "CHANDPUR HIGH SCHOOL" },
+                { "name": "CHAR ALGIABIRUDDIN HIGH SCHOOL" },
+                { "name": "BARADIROICHAR HIGH SCHOOL" },
+                { "name": "BHAIRA SCHOOL" },
+                { "name": "CHANDPUR HIGH SCHOOL" },
+                { "name": "CHAR ALGIABIRUDDIN HIGH SCHOOL" },
+                { "name": "CHATAL BAGHATA HIGH SCHOOL" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DHAKA",
+      "children": [
+        {
+          "name": "MIRPUR",
+          "children": [
+            { "name": "MIRPUR HIGH SCHOOL" },
+                { "name": "BARADIROICHAR HIGH SCHOOL" },
+                { "name": "BHAIRA SCHOOL" },
+                { "name": "CHANDPUR HIGH SCHOOL" },
+                { "name": "CHAR ALGIABIRUDDIN HIGH SCHOOL" },
+            { "name": "MIRPUR GOVT. COLLEGE" }
+          ]
+        }
+      ]
+    }
+  ]
+}
